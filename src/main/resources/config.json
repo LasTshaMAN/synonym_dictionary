@@ -1,0 +1,16 @@
+{
+  "task": "export_dictionary",
+  "contexts_for_dictionaries": [
+    "loader_context_3.xml"
+  ],
+  "merge_context": "merge_context.xml",
+  "improvement_context": "improvement_context.xml",
+  "export_context": "export_context.xml",
+  "statistics_context": "statistics_context.xml",
+  "words": [
+    "воин",
+    "рыцарь",
+    "улица",
+    "быстрый"
+  ]
+}
